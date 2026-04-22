@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7ddeacbf-4584-4a03-ae7b-5e005c2053b9",
+  "export_job_id": "6ac0f48c-fb27-4b03-b0b9-271e9c29b9e4",
   "id_short": 177463,
-  "published_at": "2026-04-18T07:32:26Z",
+  "published_at": "2026-04-22T07:09:41Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-kansas-us-sample-177463",
   "sample_asset_name": "beamstation_177463_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/177463/beamstation_177463_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 173,
-  "sample_sha256": "0f10ffa2a7e2cd43cdbf74a35513d7afc0bc3d07f946a37dbc99111fd1e81a06",
-  "sample_size_bytes": 717065,
-  "total_records": 1736
+  "sample_records": 83,
+  "sample_sha256": "2c68c9d5a40b146930be4da448685454fb50fba8a038730d0ef61cfcb5e4475e",
+  "sample_size_bytes": 336973,
+  "total_records": 832
 }
